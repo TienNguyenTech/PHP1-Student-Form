@@ -1,0 +1,19 @@
+h1 {
+    color: red
+}
+
+p.form-introduction {
+    font-style: italic
+}
+
+label {
+    font-weight: 700
+}
+
+input {
+    width: 450px
+}
+
+#email {
+    color: #ff00ff
+}
